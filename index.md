@@ -56,8 +56,8 @@ Apr '17 - Feb '19: Quadrisk Advisors Private Limited Bengaluru, KA**
 #### Technical Skillset
 
 *   Languages: Python, Java
-*   Frameworks: Flask, Matillion, Terraform, Docker,data build tool (dbt) Cloud: AWS: DMS, S3,EC2,SNS ; Azure: App service, Container
-*   Registry DevOps: Jenkins, Azure Devops
+*   Frameworks: Flask, Matillion, Terraform, Docker,data build tool (dbt) Cloud: AWS: DMS, S3,EC2,SNS ; Azure: App service, Container Registry
+*   DevOps: Jenkins, Azure Devops
 *   Databases/ Datawarehouse: Oracle, PostgreSQL, MongoDB , Snowflake
 
 
