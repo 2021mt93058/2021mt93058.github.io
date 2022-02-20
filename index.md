@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 
 
 # Summary
@@ -12,8 +10,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Professional Experience
 
-**Senior Data Engineer
-Larsen and Toubro Infotech Limited. (LTI)
+**Senior Data Engineer:
+Larsen and Toubro Infotech Limited. (LTI):
 Jun '20 - Present Bengaluru, KA**
   
 _Project Description: Center of Excellence focused on building Industry specific data solutions and products for Data Migration projects and Green-field projects in Snowflake .
@@ -29,8 +27,8 @@ Frameworks and Tools: Python Flask, Azure: (DevOps, App service, Container Regis
 * Currently playing Key Role in managing Alliances with Matillion ETL and dbt.
 
 
-**Software Engineer(Analytics) / Data Engineer 
-May '19 - Jun '20 Larsen and Toubro Infotech Limited. (LTI) Bengaluru, KA**
+**Software Engineer(Analytics) / Data Engineer: 
+May '19 - Jun '20: Larsen and Toubro Infotech Limited. (LTI) Bengaluru, KA**
 
 _Project Description: Migration of History and Real time data from Legacy Databases to building a modern operational Data Warehouse in Snowflake, for an American Public Utility company
 Frameworks and Tools : AWS DMS, S3, Snowflake, Matillion, Terraform, Jenkins_
@@ -39,14 +37,14 @@ Frameworks and Tools : AWS DMS, S3, Snowflake, Matillion, Terraform, Jenkins_
 * Worked on the development of Matillion ELT Jobs to handle multiple Orchestration / Transformation pipelines in Snowflake. Single handedly built a Python Automation script to automate migration of Database objects, saving huge amount of manual work.
 * Implemented Infrastructure-as-Code scripts to automate creation of AWS Components and Jenkins CI/CD pipeline to migrate Database objects/ ELT jobs to production environment.
 
-**Software Engineer(Python) 
-Feb '19 - Apr '19 Tarams Software Technologies Pvt. Ltd. Bengaluru, KA**
+**Software Engineer(Python): 
+Feb '19 - Apr '19: Tarams Software Technologies Pvt. Ltd. Bengaluru, KA**
 
 * Developed Python Wrapper for ML model built to categorise Online products using Image classification algorithms. Followed Object-Oriented Programming structure in Python to create a web application integrated with the ML model. Bridged the technical gap between Application Development team and Data Science team.
 
 
-**Software Engineer 
-Apr '17 - Feb '19 Quadrisk Advisors Private Limited Bengaluru, KA**
+**Software Engineer: 
+Apr '17 - Feb '19: Quadrisk Advisors Private Limited Bengaluru, KA**
 
 * Frameworks and Packages: Python (pandas, numpy, scikit-learn,tabula-py, beautiful-soap, pytesseract), Azure ML,PowerBI Databases: MongoDB
 * Built an automated Invoice processing system to scan tabular data in PDF invoices and record them into Databases. Developed Python wrappers for ML Models built to categorise Expenditure data for FMCG giants.
@@ -63,11 +61,6 @@ Apr '17 - Feb '19 Quadrisk Advisors Private Limited Bengaluru, KA**
 *   Databases/ Datawarehouse: Oracle, PostgreSQL, MongoDB , Snowflake
 
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Education
 
@@ -82,14 +75,10 @@ Apr '17 - Feb '19 Quadrisk Advisors Private Limited Bengaluru, KA**
 ### Contact Information
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Contact Address</dt>
+<dd>5/9, Nadu Arabic tank street, Trichy, TN. Pin: 620002</dd>
+<dt>Contact Number</dt>
+<dd>+91-8668030254</dd>
 </dl>
 
 
